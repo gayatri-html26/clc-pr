@@ -1,0 +1,12 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title> my cloud web application </title>
+</head>
+<body>
+<h1> welcome to my cloud web application </h1>
+<h2> Name: Shravani Shashikant Chavan </h2>
+<h3> Department: Computer Enginnering </h3>
+<p> this website is hosted on cloud platform </p>
+</body>
+</html>
